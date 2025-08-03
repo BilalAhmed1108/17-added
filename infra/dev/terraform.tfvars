@@ -27,7 +27,7 @@ rgvariable_dev = {
 # Storage Account Values
 stgvariable_dev = {
   "stg_dev" = {
-    name                     = "stgbgvy"
+    name                     = "stgbilalgvy"
     resource_group_name      = "bilalrgincentraltus"
     location                 = "Central us"
     account_tier             = "Standard"
@@ -112,7 +112,7 @@ backend_nicvariable_dev = {
 # Keyvault Values
 keyvaultvariable_dev = {
   kv = {
-    name                        = "bgvykeyvault12345"
+    name                        = "bilalgvykeyvault12345"
     location                    = "Central us"
     resource_group_name         = "bilalrgincentraltus"
     enabled_for_disk_encryption = true
